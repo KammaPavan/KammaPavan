@@ -1,5 +1,5 @@
--👋 Hi there, I’m Pavan
--👀 I’m interested in Data Science, Machine Learning and books.
+👋 Hi there, I’m Pavan
+👀 I’m interested in Data Science, Machine Learning and books.
 
 💻 I spend most of my time working on a Machine Learning projects.
 
