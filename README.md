@@ -7,5 +7,5 @@
 
 🌍 I am currently sharing a little bit of my knowledge to the world through my blogs.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=KammaPavan)
+![Github stats](https://github-readme-stats.vercel.app/api?username=KammaPavan&show_icons=true&theme=radical)
 
