@@ -11,4 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KammaPavan&langs_count=8)](https://github.com/KammaPavan/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KammaPavan)](https://github.com/KammaPavan/github-readme-stats)
+
 
