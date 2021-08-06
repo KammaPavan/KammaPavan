@@ -14,7 +14,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KammaPavan&langs_count=8)](https://github.com/KammaPavan/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KammaPavan&show_icons=true&theme=radical)
+
+
 
 
 
